@@ -23,7 +23,7 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2024.2
-setuptools==70.2.0
+setuptools==78.1.1
 six==1.16.0
 smmap==5.0.2
 sympy==1.13.1
