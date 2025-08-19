@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#  Datasets are large files that are not part of the codebase and should not be tracked by Git.
+Datasets
+test
+models
